@@ -9,6 +9,7 @@ dynamic focos = stdin.readLineSync();
  var rojo = 0;
  
 
+
   for (var i = 0; i < focos ; i++){
   print('Digite el color del foco ${i+1}');
   print('verde es igual a 1 ${i+1}');
